@@ -1,0 +1,113 @@
+{
+	"consumers":[
+	{
+		"firstname": "Daniel",
+		"lastname": "Edmund",
+		"type": "U",
+		"friends":[
+		{
+			"firstname": "Julia",
+			"lastname": "Matvei",
+			"type": "U"
+		},
+		{
+			"firstname": "Leyla",
+			"lastname": "Stacy",
+			"type": "E"
+		}
+	]
+     },
+     {
+		"firstname": "Julia",
+		"lastname": "Matvei",
+		"type": "U",
+		"friends":[
+		{
+			"firstname": "Jonie",
+			"lastname": "Phillip",
+			"type": "R"
+		},
+		{
+			"firstname": "Steward",
+			"lastname": "Goodwin",
+			"type": "E"
+		}
+	]
+     },
+     { 
+		"firstname": "Tamara",
+		"lastname": "Haci",
+		"type": "U",
+		"friends":[
+		{
+			"firstname": "Linette",
+			"lastname": "Spartak",
+			"type": "U"
+		},
+		{
+			"firstname": "Leyla",
+			"lastname": "Stacy",
+			"type": "E"
+		}
+	]
+     },
+     {
+		"firstname": "Linette",
+		"lastname": "Spartak",
+		"type": "U",
+		"friends":[
+		{
+			"firstname": "Bryson",
+			"lastname": "Reenie",
+			"type": "E"
+		}
+	]
+     },
+     {
+		"firstname": "Shana",
+		"lastname": "Addy",
+		"type": "E",
+		"friends":[
+		{
+			"firstname": "Bryson",
+			"lastname": "Reenie"
+			"type": "E"
+		},
+		{
+			"firstname": "Darrell",
+			"lastname": "Lillie",
+			"type": "R"
+		}
+	]
+     },
+     {
+		"firstname": "Leyla",
+		"lastname": "Stacy",
+		"type": "E",
+		"friends":[
+		{
+			"firstname": "Rolland",
+			"lastname": "Lyla",
+			"type": "E"
+		},
+                {
+			"firstname": "Janine",
+			"lastname": "Woody",
+			"type": "R"
+		}
+	]
+    },
+    {
+		"firstname": "Rolland",
+		"lastname": "Lyla",
+		"type": "E",
+		"friends":[
+                {
+			"firstname": "Damian",
+			"lastname": "Bodhi",
+			"type": "R"
+		}
+	]
+     }
+    ]
+}
