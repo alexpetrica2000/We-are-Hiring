@@ -1,0 +1,56 @@
+{
+	"jobs":[
+	{
+		"company_name": "Google",
+		"job_name": "Software Developer Engineer",
+		"department": "IT",
+		"noPositions": 1,
+		"salary": 10000,
+		"inferior_year_constraint": 2002,
+		"superior_year_constraint": 2020,
+		"inferior_experience_constraint": 2,
+		"superior_experience_constraint": 6,
+		"inferior_average": 8,
+		"superior_average": null
+	},
+	{
+		"company_name": "Google",
+		"job_name": "Software Developer Engineer Intern",
+		"department": "IT",
+		"noPositions": 1,
+		"salary": 5000,
+		"inferior_year_constraint": null,
+		"superior_year_constraint": null,
+		"inferior_experience_constraint": 0,
+		"superior_experience_constraint": 2,
+		"inferior_average": 9,
+		"superior_average": null
+	},
+	{
+		"company_name": "Amazon",
+		"job_name": "Software Developer Engineer",
+		"department": "IT",
+		"noPositions": 1,
+		"salary": 12000,
+		"inferior_year_constraint": 2014,
+		"superior_year_constraint": 2020,
+		"inferior_experience_constraint": 1,
+		"superior_experience_constraint": null,
+		"inferior_average": 9,
+		"superior_average": null
+	},
+	{
+		"company_name": "Amazon",
+		"job_name": "Software Developer Engineer Intern",
+		"department": "IT",
+		"noPositions": 1,
+		"salary": 6000,
+		"inferior_year_constraint": null,
+		"superior_year_constraint": null,
+		"inferior_experience_constraint": 0,
+		"superior_experience_constraint": 2,
+		"inferior_average": 9.35,
+		"superior_average": null
+	}
+    ]
+}
